@@ -1,3 +1,5 @@
+<center><img alt="capa projeto" src="https://github.com/cristiana-e/Images-repository/blob/master/nlp_rs21.jpg?raw=true"></center>
+
 # Análise das licitações de itens no Rio Grande do Sul em 2021
 Desafio: propõe-se a análise de uma base com as licitações dos órgãos públicos do Rio Grande do Sul
 
