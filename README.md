@@ -9,3 +9,5 @@ Este estudo foi realizado utilizando a seguinte metodologia:
 - Codificação: uso de técnicas para codificar o texto tokenizado;
 - Modelagem: uso de modelos para agrupar os objetos das licitações em conjuntos comuns;
 - Análise exploratória dos dados.
+
+A base de dados utilizadas encontra-se disponível no site de publicação dos dados do TCE-RS. Acesse [aqui](http://dados.tce.rs.gov.br/dataset?groups=licitacoes&q=consolidado).
